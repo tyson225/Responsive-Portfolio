@@ -1,0 +1,3 @@
+-add links to social network
+-fill out the bio
+-add projects
